@@ -24,6 +24,8 @@
 - **Software Engineer Intern, Cadence Design Systems** (Detail Route Team): C++ development in NanoRoute, the routing engine of Innovus.
 - **Undergraduate research, Media IC and System Laboratory, NTU**: streaming hardware accelerator architecture for Mamba.
 - **Undergraduate research, Computational Mechanics and Materials AI Group, NTU**: Bayesian optimization for materials formulation.
+- **Undergraduate research, Digital Image and Signal Processing Laboratory, NTU**: image segmentation, Fourier-domain image fusion, edge and corner detection.
+- **Undergraduate research, Advanced Chip Packaging Laboratory, NTU**: metallographic preparation and spreading-area measurement of alloy samples under packaging conditions.
 
 ### Featured projects
 
