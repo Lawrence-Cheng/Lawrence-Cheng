@@ -13,6 +13,7 @@
   <img src="https://img.shields.io/badge/Tcl-scripting-E4CC98" alt="Tcl">
   <img src="https://img.shields.io/badge/Linux-222222?logo=linux&logoColor=white" alt="Linux">
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Perforce-404040?logo=perforce&logoColor=white" alt="Perforce">
 </p>
 
 ---
