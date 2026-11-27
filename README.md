@@ -34,6 +34,7 @@
 | [**Global Router**](https://github.com/Lawrence-Cheng/Global_Router) | Two-layer global router using negotiation-based rip-up and reroute. Zero overflow on four of six benchmarks. | C++17 |
 | [**Single-Cycle RISC-V**](https://github.com/Lawrence-Cheng/Single_Cycle_RISC_V) | RISC-V processor core, synthesized with Design Compiler at a 3.0 ns clock. | Verilog |
 | [**Maximum Planar Subset**](https://github.com/Lawrence-Cheng/Maximum_Planar_Subset) | Top-down and bottom-up dynamic programming for a single-layer routing problem, compared up to 60,000 endpoints. | C++17 |
+| [**Image Segmentation**](https://github.com/Lawrence-Cheng/Image_Segmentation) | Multi-stage superpixel-merging segmentation pipeline with three classical baselines. Research project at the DISP Lab, NTU. | Python, OpenCV |
 | [**Ergonomic Posture Monitor**](https://github.com/Lawrence-Cheng/Ergonomic_Posture_Monitor) | Real-time webcam posture monitor on MediaPipe Pose with distance-invariant slouch detection. | Python, OpenCV |
 | [**Load Balancing Proxy Server**](https://github.com/Lawrence-Cheng/Load_Balancing_Proxy_Server) | HTTP proxy with round robin, caching, sticky sessions, and 502/504 handling on raw sockets. Team project. | Python |
 
