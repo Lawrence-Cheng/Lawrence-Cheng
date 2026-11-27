@@ -1,7 +1,8 @@
-<h1 align="center">Lawrence Cheng</h1>
+<p align="center">
+  <img src="banner.svg" alt="Lawrence Cheng: EDA, VLSI physical design, digital hardware" width="100%">
+</p>
 
 <p align="center">
-  <b>EDA · VLSI physical design · Digital hardware</b><br>
   B.S. in Materials Science and Engineering, Minor in Electrical Engineering · National Taiwan University
 </p>
 
